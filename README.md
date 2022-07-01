@@ -21,7 +21,8 @@
 
 - HTML5
 - CSS3(Flexbox, grid layout)
-- SAAS/Stylus
+- Sass/Stylus
+- BEM
 - Bootstrap
 - JavaScript
 - React
