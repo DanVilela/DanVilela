@@ -8,7 +8,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-- 🖥 FrontEnd Engineer at [Red Ventures](https://www.redventures.com/)
+- 🖥 Quality Assurance Engineer
+
+- 🖥 FrontEnd Engineer
 
 - 💼 And... Lawyer 😁
 
