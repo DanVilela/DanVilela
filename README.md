@@ -14,7 +14,7 @@
 
 - 💼 And... Lawyer 😁
 
-- 🎁 Passionate for QA area abd Front-End Development. Seeking continuous and lasting improvement! 
+- 🎁 Passionate for QA area and Front-End Development. Seeking continuous and lasting improvement! 
 
 
 ## Languages and Tools: 
