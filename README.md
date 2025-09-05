@@ -8,16 +8,32 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
-- 🖥 Quality Assurance Engineer
+- 🖥 QA Engineer
 
 - 🖥 FrontEnd Engineer
 
 - 💼 And... Lawyer 😁
 
-- 🎁 Passionate for Front-End Development and UI Design. Seeking continuous and lasting improvement! 
+- 🎁 Passionate for QA area abd Front-End Development. Seeking continuous and lasting improvement! 
 
 
 ## Languages and Tools: 
+
+### QA
+
+- CTFL 4.0 Certification (ISTQB)
+- Automated Testing: Robot Framework, Cypress, Selenium e Orange Testing
+- Manual Testing: Quality assurance across various platforms
+- Regression and Confirmation Testing: Maintaining version stability
+- Performance Testing: Using JMeter and K6 for performance analysis
+- Exploratory and Monkey Testing: Ensuring diverse testing approaches
+- Mobile Testing: Appium, Maestro
+- BDD, TDD e Gherkin
+- API Testing: Postman and Insomnia for validating RESTful services
+- Test Management: Jira, Zephyr, Kanbanize
+- Version Control: Git/GitHub/GitLab
+- CI/CD: Jenkins, GitHub Actions, CircleCI
+
 
 ### Programming Skills:
 
